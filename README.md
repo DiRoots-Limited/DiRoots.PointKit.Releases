@@ -6,7 +6,7 @@
 
 ### What is this repository for?
 
-- To store installers for update handler service for [PointKit]
+- To store installers for update handler service for [PointKit](https://diroots.com/revit-plugins/revit-point-cloud-plugin/)
 - Facilitates changelog messages pushed to update handler service to client plugin
 
 ### Who and how do we talk to?
